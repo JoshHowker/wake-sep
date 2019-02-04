@@ -1,0 +1,39 @@
+h2{
+  background-color: #17375e;
+  margin: 0 auto;
+  color: #ffffff;
+}
+.sep-choice{
+  width: 800px;
+  margin: 0 auto;
+  float: left;
+  background-color: #ffffff;
+}
+.test-div{
+  width: 790px;
+  margin: 0 auto;
+  float: right;
+  background-color: #ffffff;
+}
+.main{
+  margin: 0 auto;
+  width: 1625px;
+}
+.sep-choice-inner{
+    padding-left: 10px;
+}
+.test-div-inner{
+  padding-left: 10px;
+}
+.test-div-head-text{
+  padding-left: 10px;
+}
+.test-div-head{
+  width: 790px;
+}
+.sep-choice-head{
+  width: 800px;
+}
+.sep-choice-head-text{
+  padding-left: 10px;
+}

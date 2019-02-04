@@ -1,0 +1,31 @@
+html{
+  font-family: Arial;
+}
+body{
+  background-color: #cccdce;
+}
+h1{
+  background-color: #17375e;
+  margin: 0 auto;
+  color: #ffffff;
+  font-size: 35px;
+  line-height: 1.5;
+  width:100%;
+}
+.footer-inner{
+  width: 80%;
+}
+.footer-main{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #17375e;
+  padding-left: 10px;
+}
+.footer-middle{
+  margin: 0 auto;
+  color: #ffffff;
+  width: 10%;
+  font-size: 15px;
+}

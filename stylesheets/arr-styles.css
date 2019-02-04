@@ -1,0 +1,22 @@
+h2{
+  width: 790px;
+  background-color: #17375e;
+  margin: 0 auto;
+  color: #ffffff;
+  padding-left: 10px;
+}
+.test-div{
+  width: 800px;
+  margin: 0 auto;
+  background-color: #ffffff;
+}
+.main{
+  margin: 0 auto;
+  width: 800px;
+}
+.output{
+  padding-left: 10px;
+}
+.arr-table{
+  text-align: center;
+}

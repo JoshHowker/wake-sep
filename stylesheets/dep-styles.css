@@ -1,0 +1,25 @@
+h2{
+  width: 1190px;
+  background-color: #17375e;
+  margin: 0 auto;
+  color: #ffffff;
+  padding-left: 10px;
+}
+.test-div{
+  width: 1200px;
+  margin: 0 auto;
+  background-color: #ffffff;
+}
+.main{
+  margin: 0 auto;
+  width: 1200px;
+}
+#dep{
+  width: 1200px;
+}
+button{
+  margin: 0 auto;
+}
+.dep-table{
+  text-align: center;
+}
